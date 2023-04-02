@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta  charset="UTF-8">
+     <meta http-equiv="X-UA-Comatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width,initial-scale=1.0">
+     <title>Document</title>
+</head>
+
+<body>
+    <div>
+        <h1>Hello cloud </h1>
+        <ul>
+         <li>contacts</li>
+         <li>contacts</li>
+         <li>contacts</li>
+        </ul>
+        <h4>PaaS</h4>
+        <p>lorem ipsum dolor sit, amet consecteture elit.odit sequi non eveniet, aut totam labore eos dolore suscipit quidem nisi laudantim nostrum ad,doloremque consequuntur accusantium deleniti minus?
+             </p>
+    </div>
+
+</body>
+</html>
